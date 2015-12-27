@@ -1,3 +1,4 @@
+CODE BOOK
 
 File used is  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
  
